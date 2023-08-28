@@ -28,48 +28,5 @@ Ensuring the integrity of assessments in an online environment can be challengin
 #### Skill Development:
 Some skills, especially hands-on or practical skills, are harder to teach effectively in an online setting. Certain fields require in-person training for proper skill development.
 
-##  Business Problem
-Analysis of The Online Education System
-### Business Requirements
-Taking student and teacher surveys.<br>
-Understanding student needs and having an efficient feedback system.<br>
-Update the content that is being taught to students based on the feedback.<br>
-These requirements are necessary to ensure that students are able to find it easy to adjust with online education / e-learning.
-### Literature Survey
-Refered a jounal paper on "Students’ perception and preference for online education in India during COVID -19 pandemic" by T. Muthuprasad a, S. Aiswarya b, K.S. Aditya and  Girish K. Jha
 
-### Social Or Business Impact.
-##### Social Impact:
-Understanding the pros and cons of e-learning and making it better for future generations
-##### Business Model/Impact: 
-Ed-tech companies and other organizations can capitalize on this 
-
-## Data Collection
-Downloaded ONLINE EDUCATION SYSTEM REVIEW.csv file.
-Column Description for Online education system has :
-Gender: Gender of the student<br>
-Home Location : Rural or Urban <br>
-Level of Education : UG, PG or school <br>
-Age : age of the student <br>
-Number of subjects :  <br>
-Device Type Used : device used to attend the online classes <br>
-Economic status :  economic status of the family<br>
-Internet facility in your locality <br> 
-Are you involved on any sports <br>
-Family Size <br>
-Do elderly people monitor you ? <br> 
-Study Time(hours) <br>
-Sleep time (hours) <br>
-Time spent on social media(hours) <br>
-Interested in gaming ? <br>
-Have a separate room for studying ? <br>
-Engaged in group studies ?  <br>
-Average marks scored before pandemic in traditional classroom <br>
-Your interaction in online mode <br>
-Clearing doubts with faculties online ? <br>
-Interested in ? <br>
-Performance in online <br>
-Your level of satisfaction in online education <br>
-### Connect The Data With IBM Cognos
-Login to IBM Cognos, Launch IBM Cognos, Go to the prepare data section, click on upload option and upload the csv file
 
