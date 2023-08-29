@@ -43,6 +43,6 @@ Performance in online <br>
 Your level of satisfaction in online education <br>
 ### Connect The Data With IBM Cognos
 Login to IBM Cognos, Launch IBM Cognos, Go to the prepare data section, click on upload option and upload ONLINE EDUCATION SYSTEM REVIEW.csv
-![Uploaded CSV File](https://github.com/ksooryakrishna1/Analysis-Of-The-Online-Education-System/blob/main/Data_uploading.png)
+![Uploaded CSV File](https://github.com/ksooryakrishna1/Analysis-Of-The-Online-Education-System/blob/main/Images/Data_uploading.png)
 ### Prepare The Data For Visualization
 Provided data file is already cleaned. This data file used for the Visualization. 
