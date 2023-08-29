@@ -10,13 +10,18 @@ From this we can undersatnd that more aged people are satified with the online e
 ![Columnchart1](https://github.com/ksooryakrishna1/Analysis-Of-The-Online-Education-System/blob/main/Images/columnchart_1.png) <br>
 From this we can undersatnd that more people are having the Average satisfaction on Online education
 #### Pie Chart
-![](https://github.com/ksooryakrishna1/Analysis-Of-The-Online-Education-System/blob/main/Images/piechart1.png)
+![piechart](https://github.com/ksooryakrishna1/Analysis-Of-The-Online-Education-System/blob/main/Images/piechart1.png)<br>
 Who are using the mobile phones to attend the Online classes spend more time on Social media 
 #### Pie Chart
-![](https://github.com/ksooryakrishna1/Analysis-Of-The-Online-Education-System/blob/main/Images/piechart2.png)
+![piechart1](https://github.com/ksooryakrishna1/Analysis-Of-The-Online-Education-System/blob/main/Images/piechart2.png)<br>
 Online education satisfaction is same from whatever the device used to attend the classes.
-![]()
-![]()
+#### Packed Bubble
+![Packedbubble](https://github.com/ksooryakrishna1/Analysis-Of-The-Online-Education-System/blob/main/Images/bubblechart.png)<br>
+Those who are doing group study, performs better in online educatin. 
+#### Packed Bubble
+![](https://github.com/ksooryakrishna1/Analysis-Of-The-Online-Education-System/blob/main/Images/bubblechart1.png)<br>
+Online perfomance decreases with more numbers in sports
+#### Word Cloud
 ![]()
 ![]()
 ![]()
