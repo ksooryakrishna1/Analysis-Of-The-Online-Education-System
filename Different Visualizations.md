@@ -12,6 +12,14 @@ From this we can undersatnd that more people are having the Average satisfaction
 #### Pie Chart
 ![](https://github.com/ksooryakrishna1/Analysis-Of-The-Online-Education-System/blob/main/Images/piechart1.png)
 Who are using the mobile phones to attend the Online classes spend more time on Social media 
+#### Pie Chart
+![](https://github.com/ksooryakrishna1/Analysis-Of-The-Online-Education-System/blob/main/Images/piechart2.png)
+Online education satisfaction is same from whatever the device used to attend the classes.
+![]()
+![]()
+![]()
+![]()
+![]()
 ![]()
 ![]()
 ![]()
