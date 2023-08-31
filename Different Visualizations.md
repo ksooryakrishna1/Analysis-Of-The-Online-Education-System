@@ -22,8 +22,12 @@ Those who are doing group study, performs better in online educatin.
 ![](https://github.com/ksooryakrishna1/Analysis-Of-The-Online-Education-System/blob/main/Images/bubblechart1.png)<br>
 Online perfomance decreases with more numbers in sports
 #### Word Cloud
-![]()
-![]()
+![wordcloud](https://github.com/ksooryakrishna1/Analysis-Of-The-Online-Education-System/blob/main/Images/word_count1.png)<br>
+Mre number of students scored marks in the range 81 to 90 before pandemic in traditional classroom.
+#### Word Cloud
+![wordcloud](https://github.com/ksooryakrishna1/Analysis-Of-The-Online-Education-System/blob/main/Images/word_cloud2.png)<br>
+Let 1= Low and 5= High about the Clearing doubts with faculties in online mode. More number of students having avaerage doubts Clearing with faculties in online mode
+#### Table
 ![]()
 ![]()
 ![]()
