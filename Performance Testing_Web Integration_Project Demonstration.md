@@ -3,3 +3,16 @@ Filters are with Visualizations
 ### No Of Calculation Fields
 There are 23 fields in the Online_Education.csv. We can use these fields for plotting different types of graphs. Based on the response, we will come to know the trend.
 ### No Of Visualizations/ Graphs
+Different Plots are obtained.<br>
+Column Chart: Age(Years) by Your level of satisfaction in Online Education<br>
+Bar Chart: Internet facility in your locality by Your level of satisfaction in Online Education<br>
+Bar chart: Performance in online by Level of Education<br>
+Pie Chart: Time spent on social media (Hours) by Device type used to attend classes<br>
+Packed bubbles : Engaged in group studies? colored by Engaged in group studies? sized by Performance in online<br>
+Wordcloud: Average marks scored before pandemic in traditional classroom <br>
+Table: Economic status, Home Location and Performance in online<br>
+Radial Chart:
+Line Chart: Performance in online by study time(hours)
+Line Chart: Performance in online by sleep time(hours)
+## Web Integration
+
