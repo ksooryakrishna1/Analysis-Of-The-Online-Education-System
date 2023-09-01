@@ -28,8 +28,11 @@ Mre number of students scored marks in the range 81 to 90 before pandemic in tra
 ![wordcloud](https://github.com/ksooryakrishna1/Analysis-Of-The-Online-Education-System/blob/main/Images/word_cloud2.png)<br>
 Let 1= Low and 5= High about the Clearing doubts with faculties in online mode. More number of students having avaerage doubts Clearing with faculties in online mode
 #### Table
-![]()
-![]()
+![table](https://github.com/ksooryakrishna1/Analysis-Of-The-Online-Education-System/blob/main/Images/table.png)<br>
+Those who are having the good internet facility had good performance in online in online.
+#### Radial Chart
+![](https://github.com/ksooryakrishna1/Analysis-Of-The-Online-Education-System/blob/main/Images/radial.png)<br>
+In the middle class, satisfaction is good in online education.
 ![]()
 ![]()
 ![]()
