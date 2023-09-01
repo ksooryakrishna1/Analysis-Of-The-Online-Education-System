@@ -1,1 +1,2 @@
 https://us3.ca.analytics.ibm.com/bi/?pathRef=.my_folders%2FReport%2Bon%2Bthe%2BEffect%2Bof%2BOnline%2BEducation&action=edit
+<iframe src="https://us3.ca.analytics.ibm.com/bi/?pathRef=.my_folders%2FReport%2Bon%2Bthe%2BEffect%2Bof%2BOnline%2BEducation&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=edit" width="320" height="200" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
