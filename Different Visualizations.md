@@ -33,6 +33,8 @@ Those who are having the good internet facility had good performance in online i
 #### Radial Chart
 ![](https://github.com/ksooryakrishna1/Analysis-Of-The-Online-Education-System/blob/main/Images/radial.png)<br>
 In the middle class, satisfaction is good in online education.
-![]()
+#### Area Chart
+![areachart](https://github.com/ksooryakrishna1/Analysis-Of-The-Online-Education-System/blob/main/Images/area_chart.png)<br>
+Average Performance is more in number  than good or poor. 
 ![]()
 ![]()
