@@ -19,3 +19,8 @@ Line Chart: Performance in online by sleep time(hours)
 ## Explanation Video For Project End To End Solution
 
 ## Project Documentation-Step By Step Project Development Procedure
+### Recorded Explanation Video For Project End To End Solution
+https://drive.google.com/file/d/1fLE4n2XQgm6-6ko_t6QT1Z42GskTK873/view?usp=sharing
+### Project Documentation-Step By Step Project Development Procedure
+https://github.com/ksooryakrishna1/Analysis-Of-The-Online-Education-System.git 
+
